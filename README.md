@@ -1,6 +1,6 @@
 # Food Review Classification
 
-This project shows a Jupyter Notebook which demonstrates a variety of Recurrent Neural Networks models I built and tuned to classify text for the [Amazong Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset. The dataset has 568,454 food reviews Amazon users left up to October 2012, but for better runtime, only 100,000 samples were selected to be trained in this project. However, it is highly likely that we would be able to achieve higher accuracy scores if more samples were selected, given that your machine is able to handle large-data processing.
+This project shows a Jupyter Notebook which demonstrates a variety of Recurrent Neural Networks models I built and tuned to classify text for the [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset. The dataset has 568,454 food reviews Amazon users left up to October 2012, but for better runtime, only 100,000 samples were selected to be trained in this project. However, it is highly likely that we would be able to achieve higher accuracy scores if more samples were selected, given that your machine is able to handle large-data processing.
 
 ## List of different RNN Models:
 
